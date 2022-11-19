@@ -14,4 +14,4 @@ Este repositório tem como fim auxiliar a administração do Active Directory.
 
 •[Active Directory - Revisar usuários que estão Inativos no AD(Podendo variar dias).](https://github.com/matheussdsi/Active_Directory_repository/blob/d24abbfe3410e70bf3bc34624114173e0a6d4a88/Users_Inat.ps1)
  
- [•Active Directory – Verificar política de senha da organização.] (https://github.com/matheussdsi/Active_Directory_repository/blob/fb02d8f8d534b2e9735072814e09e28bb3628e6b/AD%202.0.ps1)
+ [•Active Directory – Verificar política de senha da organização.](https://github.com/matheussdsi/Active_Directory_repository/blob/fb02d8f8d534b2e9735072814e09e28bb3628e6b/AD%202.0.ps1)
