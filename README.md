@@ -1,6 +1,6 @@
 # Active_Directory_repositorio#
 
-
+Este repositório tem como fim auxiliar a administração do Active Directory. 
 
 •[Active Directory - Listar Contas Desativadas](https://github.com/matheussdsi/Active_Directory_repository/blob/c2b9421b34dc49799df9638069aa8a98af4063d1/Contas_desativas.ps1)
 
