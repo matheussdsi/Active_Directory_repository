@@ -17,3 +17,5 @@ Este repositório tem como fim auxiliar a administração do Active Directory.
 •[Active Directory – Verificar política de senha da organização.](https://github.com/matheussdsi/Active_Directory_repository/blob/fb02d8f8d534b2e9735072814e09e28bb3628e6b/AD%202.0.ps1)
 
 •[Active Directory – Revisar ultima alteração feita pelo usuário via OU.](https://github.com/matheussdsi/Active_Directory_repository/blob/ea7e23d0e65cfe433dba1aa705b29d8a2dfe688c/PasswordLastSet.Ps1)
+
+•[Active Directory – Revisar última alteração feita pelo usuário de acordo com uma data pré-definida.](https://github.com/matheussdsi/Active_Directory_repository/blob/23912c2b0ce6e0e4b025b85e95a088388489e3c5/PasswordLastSet_data.ps1)
